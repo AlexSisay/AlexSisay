@@ -4,7 +4,8 @@ I obtained my BSc degree in Electrical & Computer Engineering (Communication Eng
 
 I also obtained my Msc in Communication Technology and Multimedia at University of Brescia, Brescia, Italy.
 
-Research interest:  Deep learning based Medical image analysis
+Currently, I am a PhD student in AI in Medicine at University of Brescia, Italy. I am working on the use of computer vision for diagnosis of spinal disease, in particular disc herniation.
+Research interest:  Deep learning based Medical image analysis, Computer Vision, Medical Imaging
 
 <!---
 AlexSisay/AlexSisay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
